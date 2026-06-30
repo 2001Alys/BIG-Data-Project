@@ -1,6 +1,6 @@
-# 📊 BIG-Data-Project
+# BIG-Data-Project
 
-## 🎯 Temat projektu
+## Temat projektu
 
 **Analiza powodów decyzji banku dotyczącej udzielenia kredytu mieszkaniowego na podstawie danych „Loan-Approval-Prediction-Dataset”.**
 
@@ -8,11 +8,11 @@
 
 Dane wykorzystane w projekcie pochodzą z platformy Kaggle:
 
-🔗 https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 
 ---
 
-# 📁 Opis danych do analizy
+# Opis danych do analizy
 
 ## Charakterystyka zbioru danych
 
@@ -39,7 +39,7 @@ Dane wykorzystane w projekcie pochodzą z platformy Kaggle:
 
 ---
 
-# 🎯 Założenia projektowe
+# Założenia projektowe
 
 ## Cel projektu
 
@@ -52,7 +52,7 @@ Celem projektu jest:
 
 ---
 
-# 🔬 Wybrane techniki analizy
+# Wybrane techniki analizy
 
 ## 1. Eksploracyjna Analiza Danych (EDA)
 
@@ -112,7 +112,7 @@ Analiza pozwoli określić prawdopodobieństwo uzyskania pozytywnej decyzji kred
 
 ---
 
-# ✅ Oczekiwane rezultaty
+# Oczekiwane rezultaty
 
 Projekt powinien umożliwić:
 
@@ -124,6 +124,6 @@ Projekt powinien umożliwić:
 
 ---
 
-# 👥 Autorzy
+# Autorzy
 
 Projekt realizowany w ramach projektu uczelnianego.
