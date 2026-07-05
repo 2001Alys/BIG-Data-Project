@@ -1,8 +1,6 @@
 # BIG-Data-Project
 
-## Temat projektu
-
-**Analiza powodów decyzji banku dotyczącej udzielenia kredytu mieszkaniowego na podstawie danych „Loan-Approval-Prediction-Dataset”.**
+## **Analiza powodów decyzji banku dotyczącej udzielenia kredytu mieszkaniowego na podstawie danych „Loan-Approval-Prediction-Dataset”**
 
 ### Źródło danych
 
